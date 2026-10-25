@@ -1,0 +1,219 @@
+---
+name: Kalyana Smriti
+colors:
+  surface: '#fcf9f3'
+  surface-dim: '#dcdad4'
+  surface-bright: '#fcf9f3'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#f6f3ed'
+  surface-container: '#f0eee8'
+  surface-container-high: '#ebe8e2'
+  surface-container-highest: '#e5e2dc'
+  on-surface: '#1c1c18'
+  on-surface-variant: '#574141'
+  inverse-surface: '#31312d'
+  inverse-on-surface: '#f3f0ea'
+  outline: '#8b7170'
+  outline-variant: '#debfbe'
+  surface-tint: '#a9353b'
+  primary: '#6b0214'
+  on-primary: '#ffffff'
+  primary-container: '#8b1e28'
+  on-primary-container: '#ff9d9c'
+  inverse-primary: '#ffb3b2'
+  secondary: '#7a580f'
+  on-secondary: '#ffffff'
+  secondary-container: '#ffd07e'
+  on-secondary-container: '#79570e'
+  tertiary: '#532229'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#6f383f'
+  on-tertiary-container: '#eea4ab'
+  error: '#ba1a1a'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#ffdad9'
+  primary-fixed-dim: '#ffb3b2'
+  on-primary-fixed: '#410008'
+  on-primary-fixed-variant: '#881c26'
+  secondary-fixed: '#ffdea8'
+  secondary-fixed-dim: '#edc06f'
+  on-secondary-fixed: '#271900'
+  on-secondary-fixed-variant: '#5e4200'
+  tertiary-fixed: '#ffdadc'
+  tertiary-fixed-dim: '#feb3ba'
+  on-tertiary-fixed: '#370c14'
+  on-tertiary-fixed-variant: '#6c373d'
+  background: '#fcf9f3'
+  on-background: '#1c1c18'
+  surface-variant: '#e5e2dc'
+typography:
+  display-hero:
+    fontFamily: Playfair Display
+    fontSize: 56px
+    fontWeight: '400'
+    lineHeight: 68px
+    letterSpacing: -0.01em
+  display-hero-mobile:
+    fontFamily: Playfair Display
+    fontSize: 36px
+    fontWeight: '400'
+    lineHeight: 44px
+    letterSpacing: 0em
+  headline-lg:
+    fontFamily: Playfair Display
+    fontSize: 40px
+    fontWeight: '500'
+    lineHeight: 48px
+    letterSpacing: -0.01em
+  headline-lg-mobile:
+    fontFamily: Playfair Display
+    fontSize: 28px
+    fontWeight: '500'
+    lineHeight: 36px
+  headline-md:
+    fontFamily: Playfair Display
+    fontSize: 30px
+    fontWeight: '500'
+    lineHeight: 38px
+  headline-md-mobile:
+    fontFamily: Playfair Display
+    fontSize: 24px
+    fontWeight: '500'
+    lineHeight: 32px
+  headline-sm:
+    fontFamily: Playfair Display
+    fontSize: 22px
+    fontWeight: '600'
+    lineHeight: 28px
+  body-lg:
+    fontFamily: EB Garamond
+    fontSize: 20px
+    fontWeight: '400'
+    lineHeight: 30px
+  body-md:
+    fontFamily: EB Garamond
+    fontSize: 17px
+    fontWeight: '400'
+    lineHeight: 26px
+  body-sm:
+    fontFamily: EB Garamond
+    fontSize: 15px
+    fontWeight: '400'
+    lineHeight: 22px
+  label-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 13px
+    fontWeight: '600'
+    lineHeight: 18px
+    letterSpacing: 0.14em
+  label-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 11px
+    fontWeight: '600'
+    lineHeight: 16px
+    letterSpacing: 0.12em
+  label-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 10px
+    fontWeight: '700'
+    lineHeight: 14px
+    letterSpacing: 0.16em
+rounded:
+  sm: 0.125rem
+  DEFAULT: 0.25rem
+  md: 0.375rem
+  lg: 0.5rem
+  xl: 0.75rem
+  full: 9999px
+spacing:
+  gutter: 1.5rem
+  gutter-mobile: 1rem
+  margin: 4rem
+  margin-mobile: 1.25rem
+  space-xs: 0.375rem
+  space-sm: 0.75rem
+  space-md: 1.5rem
+  space-lg: 2.5rem
+  space-xl: 4.5rem
+---
+
+## Brand & Style
+
+This design system embodies the regal reverence, cultural profundity, and timeless intimacy of luxury South Indian heritage weddings. Designed specifically to frame sacred ceremonies—from the quiet dawn of the *Muhurtham* to the vivacity of the *Oonjal* and *Haldi*—the aesthetic draws inspiration from Dravidian temple architecture, gilded Kanjeevaram silks, brass oil lamps (*Kuthu Vilakku*), and fragrant sandalwood paste.
+
+### Visual Style
+The design blends **Classical Luxury Minimalist Editorial** with **Tactile Heritage Textures**:
+- **Atmospheric Warmth:** Anchored on warm ivory, raw silk undertones, and aged temple gold, eschewing clinical white canvases.
+- **Architectural Framing:** Subtle structural motifs honoring stepped temple sanctums (*Mandapam* pillars and thresholds), employing deliberate hairline framing rather than heavy boundaries.
+- **Editorial Grandeur:** Generous negative space, large-format cinematic imagery, and classical high-contrast serif typography evoke high-end royal monographs and archival heirloom albums.
+
+## Colors
+
+The palette is rooted in auspicious ceremonial substances: *Kumkumam* (vermilion), *Pattu* (temple gold embroidery), and *Chandanam* (sandalwood paste).
+
+- **Primary (`#8B1E28` — Deep Vermilion / Kumkum):** Serves as the primary brand anchor, focal accents, key interactive states, and editorial highlights. Evokes sacred intimacy and traditional silks.
+- **Secondary (`#C59B4E` — Temple Gold / Brass):** Evokes temple bells, heirloom jewelry, and morning sunlight spilling through stone pillared corridors. Used for gilded dividers, bespoke badges, awards, and subtle framing.
+- **Tertiary (`#4A1B22` — Deep Bronze Maroon):** A grounding, near-black umber-maroon hybrid used for high-contrast typography, formal captions, and deep-shadowed vignettes.
+- **Neutral (`#F9F6F0` — Warm Sandalwood / Raw Silk):** The canvas base, establishing a soft, non-glare, heirloom paper-like foundation. Secondary neutral tiers descend to warm brass-washed tones (`#F0EAE1`) and deep antique charcoal (`#211A1B`) for text on neutral backgrounds.
+
+## Typography
+
+The typographic hierarchy juxtaposes literary, transitional serifs with a clean, understated humanist sans-serif to create an evocative gallery experience.
+
+- **Playfair Display (Headlines & Ceremony Titles):** Provides majestic drama and classical Indian high-society dignity. High contrast between thick stems and razor-thin serifs elevates ceremony titles (*The Kanyadaanam at Brihadisvara*, *A Madurai Morning*).
+- **EB Garamond (Editorial Body Text & Narrative Notes):** Imparts warmth, romance, and literary permanence to couple stories, vow excerpts, and ceremonial descriptions.
+- **Plus Jakarta Sans (Labels, Metadata, & Action Elements):** Applied sparingly in uppercase with wide tracking for metadata (e.g., location, film lens specs, dates, button calls-to-action) to balance the elaborate serifs with crisp, contemporary navigation.
+
+## Layout & Spacing
+
+The layout is built upon an archival editorial layout with generous breathing room, reminiscent of limited-edition coffee-table monographs.
+
+- **Grid Architecture:** A 12-column asymmetric fluid grid on desktop (max content boundary: 1440px) allowing staggered, uneven visual weights for wedding photojournalism (e.g., full-bleed portraits side-by-side with detail shots of jasmine garlands, antique temple jewelry, and *Akshata* grains). On tablet, transitions to an 8-column grid; on mobile, condenses to a 4-column flow.
+- **Rhythm & Padding:** Emphasizes deep vertical pauses between ceremonial chapters. Section gaps prioritize ample separation (`space-xl` and above) to let viewers absorb the emotion of each moment.
+- **Breakpoints:**
+  - Mobile: `< 640px` (single-column stories, edge-to-edge full bleed galleries, condensed margins)
+  - Tablet: `640px – 1024px` (balanced two-column pairs, medium gutters)
+  - Desktop: `> 1024px` (multi-tier curation, immersive split-screen compositions)
+
+## Elevation & Depth
+
+This design system avoids modern synthetic drop shadows and plastic blur effects, opting instead for architectural, material-grounded elevation.
+
+- **Warm Tonal Surfaces:** Layering is achieved by shifting background tones between the base raw silk ivory (`#F9F6F0`) and layered card mats in bleached parchment (`#FAF7F2`) or deep ceremonial vermilion (`#8B1E28`) for full-takeover modal showcases.
+- **Gilded Hairline Filigree:** Cards, elevated photo frames, and interactive sheets are outlined with delicate 1px borders in antiqued gold at low opacity (`rgba(197, 155, 78, 0.28)`), providing structure without visual clutter.
+- **Heirloom Diffusion Shadows:** When floating elements are necessary (e.g., wedding date pickers, inquiry overlays, lightbox navigation), use an ultra-diffused shadow tinted with deep burnt amber rather than neutral black: `0 20px 40px -15px rgba(74, 27, 34, 0.08)`.
+
+## Shapes
+
+The shape vocabulary respects the formal, structural geometry of South Indian stone architecture, temple *gopurams*, and traditional framed family portraits.
+
+- **Subtle Softness (Level 1):** Subtle corner radius (0.25rem / 4px) softens interactive buttons and form fields, avoiding modern bubbly pills while retaining the organic touch of handmade cotton paper and mounted photo albums.
+- **Arched Heritage Frames:** Specialized visual containers (curated hero imagery, ceremonial showcase badges) may adopt a classic South Indian temple arch or scalloped threshold top profile, while retaining crisp structural vertical edges.
+
+## Components
+
+### Buttons
+- **Primary Action (Inquire / Book Date):** Filled Deep Vermilion (`#8B1E28`) with warm ivory text (`#F9F6F0`), uppercase tracked labels (`label-lg`), 4px border radius. Hover introduces a subtle warm bronze glow with a gold hairline outline (`#C59B4E`).
+- **Secondary Action (Explore Ceremony Stories):** Transparent background with a 1px border in aged gold (`#C59B4E`), primary vermilion text, shifting to a soft gold wash on hover.
+- **Icon / Narrative Triggers:** Deep bronze circular controls with 1px gold borders, featuring fine serif arrows or traditional South Indian decorative motifs (e.g., stylized lotus buds, *diya* flame icons).
+
+### Chips & Ceremony Tags
+- Used for ceremony categorization (e.g., *Muhurtham*, *Oonjal*, *Sangeeth*, *Kanyadaanam*, *Vedic Rites*).
+- Styled with an ivory background, subtle 1px border in `#C59B4E`, and tracked small-caps text (`label-sm`) in `#8B1E28`. Active states reverse with a solid vermilion fill and gold lettering.
+
+### Photo Cards & Editorial Mounts
+- Designed like museum mounts: ample inner ivory matte margins around high-resolution wedding captures.
+- Hover reveals a quiet zoom and brings forth an overlay caption typed in italicized `EB Garamond` describing the cultural ritual.
+- Micro-dividers use a double-hairline pattern: an inner solid line bordered by subtle gold dots or lotus flourishes.
+
+### Form Inputs & Date Inquiries
+- Single-line baseline borders or framed sand-colored boxes (`#F0EAE1`) topped with floating labels in uppercase `Plus Jakarta Sans`.
+- Focus state highlights with an illuminated gold underline (`#C59B4E`) and a slight vermilion accent dot.
+
+### Checkboxes & Radios
+- Square with softened corners (2px) or circular forms styled with 1px antique bronze borders. Selected state fills with deep vermilion, accented by a warm gold interior checkmark.
+
+### Ceremony Milestone Accordion
+- A narrative accordion component tailored for wedding timelines (e.g., *Dawn Sankalpam* to *Evening Reception*), featuring gold roman numerals, serif headers, and expandable split-screen preview photos.

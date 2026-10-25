@@ -1,0 +1,83 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-serif: 'Playfair Display', Georgia, serif;
+    --font-body: 'EB Garamond', Garamond, Georgia, serif;
+    --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    
+    --color-surface: #fcf9f3;
+    --color-surface-dim: #dcdad4;
+    --color-surface-container: #f0eee8;
+    --color-surface-low: #f6f3ed;
+    --color-primary: #8b1e28;
+    --color-primary-dark: #6b0214;
+    --color-gold: #c59b4e;
+    --color-gold-dark: #7a580f;
+    --color-bronze: #4a1b22;
+    --color-charcoal: #1c1c18;
+  }
+
+  body {
+    font-family: var(--font-body);
+    background-color: var(--color-surface);
+    color: var(--color-charcoal);
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-serif);
+  }
+}
+
+.font-serif-display {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+.font-editorial {
+  font-family: 'EB Garamond', Garamond, Georgia, serif;
+}
+
+.font-meta {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+}
+
+/* Gilded hairline filigree & subtle borders */
+.border-gold-hairline {
+  border-color: rgba(197, 155, 78, 0.28);
+}
+
+.border-gold-accent {
+  border-color: #c59b4e;
+}
+
+/* Heirloom shadow */
+.shadow-heirloom {
+  box-shadow: 0 20px 40px -15px rgba(74, 27, 34, 0.08);
+}
+
+.shadow-heirloom-lg {
+  box-shadow: 0 30px 60px -20px rgba(74, 27, 34, 0.14);
+}
+
+/* Traditional South Indian temple arch container */
+.temple-arch-top {
+  border-top-left-radius: 9999px;
+  border-top-right-radius: 9999px;
+}
+
+/* Custom delicate scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f6f3ed;
+}
+::-webkit-scrollbar-thumb {
+  background: #debfbe;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #c59b4e;
+}
