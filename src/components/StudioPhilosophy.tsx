@@ -20,7 +20,7 @@ export const StudioPhilosophy: React.FC = () => {
             <div className="p-3 sm:p-4 bg-[#f6f3ed] border border-[#c59b4e] rounded-[4px] shadow-heirloom">
               <div className="relative aspect-[4/5] overflow-hidden rounded-[2px] bg-[#e5e2dc]">
                 <img
-                  src="/assets/aistudio/carved_pillar_sculpture.png"
+                  src="./assets/aistudio/carved_pillar_sculpture.png"
                   alt="Carved Temple Mandapam Pillar by Madhan"
                   className="w-full h-full object-cover filter contrast-[1.02]"
                   loading="lazy"

@@ -126,7 +126,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
                 {/* Inner Image Container with User's Regional Image */}
                 <div className="relative aspect-[9/16] max-h-[520px] overflow-hidden rounded-[2px] bg-[#e5e2dc]">
                   <img
-                    src="/assets/aistudio/image_6482de90.png"
+                    src="./assets/aistudio/image_6482de90.png"
                     alt="Traditional South Indian Bride in Temple Mandapam by Madhan"
                     className="w-full h-full object-cover object-top filter saturate-[1.0] contrast-[1.02] transition-transform duration-700 hover:scale-105"
                     loading="eager"
